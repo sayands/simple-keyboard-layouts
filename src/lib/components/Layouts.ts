@@ -36,6 +36,7 @@ import turkish from "../layouts/turkish";
 import ukrainian from "../layouts/ukrainian";
 import urdu from "../layouts/urdu";
 import uyghur from "../layouts/uyghur";
+import odia from "../layouts/odia";
 
 class SimpleKeyboardLayouts {
   layouts: LayoutItemObj = {
@@ -62,6 +63,7 @@ class SimpleKeyboardLayouts {
     korean,
     nigerian,
     nko,
+    odia,
     norwegian,
     malayalam,
     polish,
