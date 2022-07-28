@@ -13,7 +13,7 @@ export default {
         default: [
             "\u0b03 \u0b01 \u0b02 \u0b4d \u0b3d \u0b70 \u0950 \u20b9 \u0025 \u00d7 _ + {bksp}",
             "{tab} \u0b33 \u0b24 \u0b08 \u0b09 \u0b05 \u0b10 \u0b14 \u0b39 \u0b27 \u0b2b \u0b2d \u0b36 \u0b16 { } :",
-            "{lock} \u0b17 \u0b1a \u0b1b \u0b35 \u0b0f \u0b06 \u0b1c \u0b5f \u0b1d \u0b1f \u0b21 \u0b23 \u0b37 {enter}",
+            "{lock} \u0b17 \u0b1a \u0b1b \u0b0f \u0b06 \u0b1c \u0b5f \u0b1d \u0b1f \u0b21 \u0b23 \u0b37 {enter}",
             '{shift} \u0b26 \u0b28 \u0b2a \u0b38 \u0b25 \u0b15 \u0b2c \u0b2e \u0b2f \u0b30 \u0b32 \u0b18 " {shift}',
             ".com @ {space}",
         ],
