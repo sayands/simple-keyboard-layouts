@@ -37,6 +37,7 @@ import ukrainian from "../layouts/ukrainian";
 import urdu from "../layouts/urdu";
 import uyghur from "../layouts/uyghur";
 import odia from "../layouts/odia";
+import hausa from "../layouts/hausa";
 
 class SimpleKeyboardLayouts {
   layouts: LayoutItemObj = {
